@@ -1,0 +1,4 @@
+module GroupsIncMvc
+plugin declarative_mvc
+typeinfo plugins.qmltypes
+classname GMvcModule
